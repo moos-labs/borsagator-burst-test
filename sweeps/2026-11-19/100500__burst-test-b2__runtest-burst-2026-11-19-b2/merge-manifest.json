@@ -1,0 +1,12 @@
+{
+  "merged_by": "worker",
+  "merge_version": 2,
+  "job": "burst test B2",
+  "claim_id": "test-burst-2026-11-19-b2",
+  "source_runs": [
+    "worker-runs/2026-11-19/test-burst-2026-11-19-b2"
+  ],
+  "sweep_dir": "sweeps/2026-11-19/100500__burst-test-b2__runtest-burst-2026-11-19-b2",
+  "finished": "2026-11-19T10:05:00+00:00",
+  "merge": "complete"
+}
