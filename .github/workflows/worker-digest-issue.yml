@@ -45,9 +45,6 @@ jobs:
           ref: ${{ github.sha }}
           fetch-depth: 0
 
-      - name: Burst-test hold (TEMPORARY, #220 test only)
-        run: sleep 300
-
       - name: Open digest issues for newly merged sweeps
         env:
           GH_TOKEN: ${{ github.token }}
